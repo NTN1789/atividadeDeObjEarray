@@ -13,9 +13,11 @@ const alunos = ["zoro" , "Luffy" , "sanji" , "midoriya" ,  "itadori" ]
 
 alunos [5] = "Gojo"
 alunos.push("madruguinha")
+alunos.unshift("pedro")
 
 console.log(alunos)
-    
+
+
 
 
    console.log("---------------------------------------------------------")
